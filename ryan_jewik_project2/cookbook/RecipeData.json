@@ -1,0 +1,38 @@
+[
+    {
+        "id": "aa32jj887hhg55",
+        "name": "Tonkatsu",
+        "description": "A Ryan classic and his favorite meal to eat and cook due to how easy it is.",
+        "isVegan": false,
+        "imageName": "tonkatsu"
+    },
+    {
+        "id": "bb32jj887hhg77",
+        "name": "Chicken Fettuccine Alfredo",
+        "description": "A hearty, yet tasty meal that passes the test for even the most picky of eaters.",
+        "isVegan": false,
+        "imageName": "chicken-alfredo"
+    },
+    {
+        "id": "cc32jj887hhg66",
+        "name": "Yakisoba",
+        "description": "Lovely lunch with ingredients you probably already have and is an easy stirfry.",
+        "isVegan": true,
+        "imageName": "yakisoba"
+    },
+    {
+        "id": "dd32jj887hhg88",
+        "name": "Steak Frites",
+        "description": "Treat yourself with something easy and tasty! A little bit more on the costly side.",
+        "isVegan": false,
+        "imageName": "steak-frites"
+    },
+    {
+        "id": "ee32jj887hhg99",
+        "name": "Chicken and Rice",
+        "description": "The classic cut meal. Good luck with this every day!",
+        "isVegan": true,
+        "imageName": "chicken-n-rice"
+    }
+    
+]
